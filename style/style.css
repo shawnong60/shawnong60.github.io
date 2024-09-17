@@ -3,7 +3,7 @@ a:visited {
 }
 
 nav ul li a:link, a:visited {
-  background-color: #ADD9F4;
+  background-color: #ffa64d;
   color: #000000;
   padding: 5px 5px;
   text-align: center;
@@ -13,7 +13,7 @@ nav ul li a:link, a:visited {
 }
 
 nav ul li a:hover {
-  background-color: #476C9B;
+  background-color: #993300;
   color: #FFFFFF;
   padding: 5px 5px;
   text-align: center;
@@ -93,7 +93,7 @@ h1 {
   }
 
   nav ul li a:link, a:visited {
-    background-color: #ADD9F4;
+    background-color: #ffa64d;
     color: #000000;
     padding: 5px 5px;
     text-align: center;
@@ -103,7 +103,7 @@ h1 {
   }
 
   nav ul li a:hover {
-    background-color: #476C9B;
+    background-color: #993300;
     color: #FFFFFF;
     padding: 5px 5px;
     text-align: center;
@@ -129,7 +129,7 @@ h1 {
   }
 
   nav ul li a:link, a:visited {
-    background-color: #FF373C;
+    background-color: #ffa64d;
     color: #000000;
     padding: 14px 25px;
     text-align: center;
@@ -139,7 +139,7 @@ h1 {
   }
 
   nav ul li a:hover {
-    background-color: #8B0000;
+    background-color: #993300;
     color: #FFFFFF;
     padding: 14px 25px;
     text-align: center;
