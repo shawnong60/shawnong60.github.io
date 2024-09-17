@@ -1,8 +1,4 @@
-a:visited {
-    color: purple;
-}
-
-nav ul li a:link, a:visited {
+nav ul li a:link, nav ul li a:visited {
   background-color: #ffa64d;
   color: #000000;
   padding: 5px 5px;
@@ -92,7 +88,7 @@ h1 {
     margin: 0 auto;
   }
 
-  nav ul li a:link, a:visited {
+  nav ul li a:link, nav ul li a:visited {
     background-color: #ffa64d;
     color: #000000;
     padding: 5px 5px;
@@ -128,7 +124,7 @@ h1 {
     margin: 0 auto;
   }
 
-  nav ul li a:link, a:visited {
+  nav ul li a:link, nav ul li a:visited {
     background-color: #ffa64d;
     color: #000000;
     padding: 14px 25px;
