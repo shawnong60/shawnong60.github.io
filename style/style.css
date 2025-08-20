@@ -31,7 +31,7 @@ h1 {
 #container {
   width:100%;
   margin:3px auto;
-  font-size:14px;
+  font-size:16px;
   position: relative;
   overflow: auto;
   text-align:center;
@@ -109,9 +109,9 @@ h1 {
   }
 
   #container {
-    width:80%;
+    width:85%;
     margin:3px auto;
-    font-size:14px;
+    font-size:16px;
     position: relative;
     overflow: auto;
     text-align:center;
@@ -145,9 +145,9 @@ h1 {
   }
 
   #container {
-    width:80%;
+    width:85%;
     margin:3px auto;
-    font-size:14px;
+    font-size:16px;
     position: relative;
     overflow: auto;
     text-align:center;
@@ -195,4 +195,46 @@ h1 {
     float: right;
   }
 
+}
+
+.styled-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 16px;
+    /* font-family: sans-serif; */
+    min-width: 500px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+
+.styled-table thead tr {
+    background-color: #ffa64d;
+    color: #222222;
+    font-size: 20px;
+    text-align: left;
+}
+
+
+.styled-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+.styled-table tbody tr:last-of-type {
+    border-bottom: 2px solid #fd8915;
+}
+
+.styled-table tbody tr.active-row {
+    font-weight: bold;
+    color: #00dbaf;
+}
+
+.styled-table tr th, td{
+  padding-left: 6px;
+  padding-right: 50px;
+  padding-top: 2px;
+  padding-bottom: 2px;
 }
