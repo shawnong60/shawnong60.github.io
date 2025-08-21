@@ -5,7 +5,7 @@ nav ul li a:link, nav ul li a:visited {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font: small-caps 14px Arial, sans-serif;
+  font: small-caps 18px Arial, sans-serif;
 }
 
 nav ul li a:hover {
@@ -15,7 +15,7 @@ nav ul li a:hover {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font: small-caps 14px Arial, sans-serif;
+  font: small-caps 18px Arial, sans-serif;
 }
 
 h1 {
@@ -31,7 +31,7 @@ h1 {
 #container {
   width:100%;
   margin:3px auto;
-  font-size:16px;
+  font-size: 20px;
   position: relative;
   overflow: auto;
   text-align:center;
@@ -39,6 +39,7 @@ h1 {
 
 .wrapper{
   width: 100%;
+  font-size:20px;
 }
 
 .left-align-textbox {
@@ -111,7 +112,7 @@ h1 {
   #container {
     width:85%;
     margin:3px auto;
-    font-size:16px;
+    font-size: 20px;
     position: relative;
     overflow: auto;
     text-align:center;
@@ -147,7 +148,7 @@ h1 {
   #container {
     width:85%;
     margin:3px auto;
-    font-size:16px;
+    font-size: 20px;
     position: relative;
     overflow: auto;
     text-align:center;
@@ -167,8 +168,8 @@ h1 {
     padding: 0px 0px 0px;
     text-align: justify;
     text-justify: inter-word;
-    font-size: 16px;
-    line-height: 20px;
+    font-size: 20px;
+    line-height: 24px;
   }
 
   .centre-align-textbox {
@@ -185,8 +186,8 @@ h1 {
     padding: 0px 0px 0px;
     text-align: justify;
     text-justify: inter-word;
-    font-size: 16px;
-    line-height: 20px;
+    font-size: 20px;
+    line-height: 24px;
   }
 
   .right-align-img {
@@ -200,7 +201,7 @@ h1 {
 .styled-table {
     border-collapse: collapse;
     margin: 25px 0;
-    font-size: 16px;
+    font-size: 20px;
     /* font-family: sans-serif; */
     min-width: 500px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
